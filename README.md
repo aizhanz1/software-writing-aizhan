@@ -19,15 +19,15 @@ I’m a **Technical Writer and Business Analyst** with 5+ years of experience do
 
 ## 🧾 Writing Samples
 
-### [1. Fintech Documentation Demo](.[/github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo])
+### [1. Fintech Documentation Demo](https://github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo)
 A mock API documentation and release notes for a financial analytics platform.  
 Demonstrates clear endpoint structure, authentication details, and release management best practices.
 
-### [2. Sales Analysis Dashboard Guide](./sales-dashboard-documentation.md)
-User and technical documentation for a Power BI sales dashboard — includes business context, data flow, and field definitions.
+### [2. Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+A structured functional specification outlining system requirements, business logic, and user stories.  
+Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.
 
-### [3. Credit Card Complaints Analysis](./credit-card-complaints-doc.md)
-Tableau dashboard documentation explaining KPIs, filters, and metrics for customer feedback analytics.
+
 
 ---
 
