@@ -19,7 +19,7 @@ I’m a **Technical Writer and Business Analyst** with 5+ years of experience do
 
 ## 🧾 Writing Samples
 
-### [1. Fintech Documentation Demo](./fintech-documentation-demo.md)
+### [1. Fintech Documentation Demo](.[/github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo])
 A mock API documentation and release notes for a financial analytics platform.  
 Demonstrates clear endpoint structure, authentication details, and release management best practices.
 
