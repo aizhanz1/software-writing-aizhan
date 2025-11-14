@@ -27,6 +27,9 @@ Demonstrates clear endpoint structure, authentication details, and release manag
 A structured functional specification outlining system requirements, business logic, and user stories.  
 Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.
 
+### 3. Process Map: [Requirement Gathering SOP – PDF](https://github.com/aizhanz1/software-writing-aizhan/blob/main/SOP%20Requirement%20Gathering.pdf)
+
+
 
 
 ---
